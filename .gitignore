@@ -13,3 +13,4 @@ dist
 src/rosdep.egg-info
 nose*
 _build
+.idea
